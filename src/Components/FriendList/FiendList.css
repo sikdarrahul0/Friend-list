@@ -1,0 +1,22 @@
+.friend-list{
+    display: flex;
+    margin: 30px 50px;
+    border: 2px solid lightgray;
+    border-radius: 10px;
+}
+.img-div{
+    margin-top: 27px;
+    margin-right: 10px;
+}
+.friend-img{
+    border-radius: 50%;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+.addbtn{
+    width: 150px;
+    height: 28px;
+    border-radius: 8px;
+    background-color: rgba(233, 42, 80, 0.836);
+    margin-bottom: 14px;
+}
